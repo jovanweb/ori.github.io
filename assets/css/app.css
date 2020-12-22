@@ -7368,9 +7368,13 @@ div.wpcf7-validation-errors:before {
     .hero .img-wrapper.active .lottie-loop {
       display: block; }
   .hero .lottie-start {
-    display: block; }
+    display: block;
+    width: 100%;
+    height: auto; }
   .hero .lottie-loop {
-    display: none; }
+    display: none;
+    width: 100%;
+    height: auto; }
   .hero article {
     width: 50%;
     position: relative;
