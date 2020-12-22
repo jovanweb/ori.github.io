@@ -7367,6 +7367,9 @@ div.wpcf7-validation-errors:before {
       display: none; }
     .hero .img-wrapper.active .lottie-loop {
       display: block; }
+  .hero .lottie {
+    width: 100%;
+    height: auto; }
   .hero .lottie-start {
     display: block;
     width: 100%;
@@ -8295,9 +8298,6 @@ div.wpcf7-validation-errors:before {
       background-position: right 0; }
       .accordion .tab-content__img .img-wrapper img.sticker {
         width: 100%;
-        position: -webkit-sticky;
-        position: sticky;
-        top: 50%;
         z-index: 2; }
       .accordion .tab-content__img .img-wrapper .img-mob {
         display: none; }
@@ -8983,9 +8983,6 @@ div.wpcf7-validation-errors:before {
         right: 0; }
     .contact-section .img-wrapper img.sticker5 {
       width: 400px;
-      position: -webkit-sticky;
-      position: sticky;
-      top: 50%;
       z-index: 2; }
   .contact-section .img-mobile {
     display: none; }
